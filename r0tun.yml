@@ -18,7 +18,7 @@
           - username instructor privilege 15 secret instructor
           - ip name-server 8.8.4.4 8.8.8.8
    
-   - name: configure Gig2 WAN interface
+    - name: configure Gig1 MGMT interface
       ios_config:
         lines:
           - description MANAGEMENT
