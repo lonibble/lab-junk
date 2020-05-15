@@ -1,0 +1,1 @@
+R0 ansible_host=10.1.0.10 ansible_network_os=ios ansible_connection=network_cli
