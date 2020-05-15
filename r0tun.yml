@@ -5,7 +5,7 @@
   connection: network_cli
   
   vars_files:
-    - ~/ansible-network-labs/r0vars.yml
+    - ~/lab-junk/r0vars.yml
     
   tasks:
     - name: configure base settings
